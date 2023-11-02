@@ -1,0 +1,4 @@
+videos.json
+.env.dev
+.vscode
+!.vscode/launch.json
