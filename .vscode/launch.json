@@ -8,10 +8,10 @@
             "name": "Python: Run update-list.py",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/update/update-list.py",
+            "program": "${workspaceFolder}/scripts/update-list.py",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "envFile": "${workspaceFolder}/update/.env.dev"
+            "envFile": "${workspaceFolder}/scripts/.env.dev"
         }
     ]
 }
